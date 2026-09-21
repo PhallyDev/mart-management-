@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../../../shop_management_system/shop_management_system.csproj" Id="185158d2-8d4f-419a-95c5-d563acd3b0bc" />
+  <Project Path="ISA/ISA.csproj" />
+</Solution>
